@@ -9,8 +9,6 @@ package serial_test
 import (
 	"fmt"
 	"log"
-
-	"gitbub.com/calliday/serial"
 )
 
 func ExampleGetPortsList() {

@@ -17,7 +17,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gitbub.com/calliday/serial/unixutils"
+	"github.com/calliday/go-serial/unixutils"
 	"golang.org/x/sys/unix"
 )
 

@@ -11,8 +11,6 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
-
-	"gitbub.com/calliday/serial"
 )
 
 func nativeGetDetailedPortsList() ([]*PortDetails, error) {

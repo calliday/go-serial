@@ -10,8 +10,6 @@ import (
 	"fmt"
 	"log"
 	"time"
-
-	"gitbub.com/calliday/serial"
 )
 
 func ExampleGetSetModemBits() {
