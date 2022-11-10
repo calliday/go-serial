@@ -1,4 +1,4 @@
-module calliday/serial
+module github.com/calliday/serial
 
 go 1.17
 

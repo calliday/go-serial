@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"calliday/serial/enumerator"
+	"gitbub.com/calliday/serial/enumerator"
 )
 
 func main() {

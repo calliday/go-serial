@@ -11,7 +11,7 @@ import (
 	"log"
 	"strings"
 
-	"calliday/serial"
+	"gitbub.com/calliday/serial"
 )
 
 // This example prints the list of serial ports and use the first one

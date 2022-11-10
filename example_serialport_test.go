@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"log"
 
-	"calliday/serial"
+	"gitbub.com/calliday/serial"
 )
 
 func ExampleSerialPort_SetMode() {

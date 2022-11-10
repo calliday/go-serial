@@ -12,7 +12,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"calliday/serial"
+	"gitbub.com/calliday/serial"
 )
 
 func nativeGetDetailedPortsList() ([]*PortDetails, error) {

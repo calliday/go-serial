@@ -11,7 +11,7 @@ import (
 	"log"
 	"time"
 
-	"calliday/serial"
+	"gitbub.com/calliday/serial"
 )
 
 func ExampleGetSetModemBits() {
